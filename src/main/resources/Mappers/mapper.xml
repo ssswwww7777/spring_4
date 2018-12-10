@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="자기자신의 파일명">
+       <select id="" resultType="풀패키지명Object" parameterType="풀패키지명Object"></select>
+       <insert id="" parameterType="풀패키지명Object"></insert>
+       <update id="" parameterType="풀패키지명Object"></update>
+       <delete id="" parameterType="풀패키지명Object"></delete>
+</mapper>
